@@ -1,0 +1,4 @@
+Pi-=3.14
+radius=float(input("Enter radius of circle:"))
+Area=pi*radius*radius
+Pront("Area of circle=%.2f" %area)
